@@ -3,8 +3,10 @@
 ## **Introduction**
 #### My name is Elizabeth and I am Journalism and Political Science major at Lehigh University. I plan to use this site for projects in my Data Journalism class.
 ___
+### **Lehigh University Undergraduate Student Breakdown by Discipline**
 #### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025graph.png?raw=true" width="300" height="370" />
-#### **Lehigh University Undergraduate Student Breakdown by Discipline**
 ##### This data shows the percentage of undergraduate students in each academic discipline at Lehigh. Arts & Sciences holds the largest percentage, then Engineering, then Business. This data was sourced from the Lehigh University Office of Institutional Research.
 ___
+### **Sexual Assault on College Campuses**
+#### <img src-"
 ##### Find me on LinkedIn by clicking [here](https://www.linkedin.com/in/elizabeth-strattner).
