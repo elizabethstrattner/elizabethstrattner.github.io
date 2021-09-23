@@ -3,7 +3,7 @@
 ## **Introduction**
 #### My name is Elizabeth and I am Journalism and Political Science major at Lehigh University. I plan to use this site for projects in my Data Journalism class.
 ___
-#### ![studentbreakdowngraph](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025graph.png?raw=true)
+#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025graph.png?raw=true"width="200"height="200"/>
 #### **Lehigh University Undergraduate Student Breakdown by Discipline**
 ##### This data shows the percentage of undergraduate students in each academic discipline at Lehigh. Arts & Sciences holds the largest percentage, then Engineering, then Business. This data was sourced from the Lehigh University Office of Institutional Research.
 ___
