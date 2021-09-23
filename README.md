@@ -8,5 +8,5 @@ ___
 ##### This data shows the percentage of undergraduate students in each academic discipline at Lehigh. Arts & Sciences holds the largest percentage, then Engineering, then Business. This data was sourced from the Lehigh University Office of Institutional Research.
 ___
 ### **Sexual Assault on College Campuses**
-#### <img src-"
+#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025%20Infographic%20Assignment-2.png?raw=true" width="290" height="370" /> 
 ##### Find me on LinkedIn by clicking [here](https://www.linkedin.com/in/elizabeth-strattner).
