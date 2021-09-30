@@ -14,4 +14,5 @@ ___
 ___
 ### Le-Laf Timeline
 ##### This was an in-class project where we learned how to create a timeline using TimelineJS. The topic of the timeline is the Le-Laf football rivalry, and the long history of games that led us to where the rivalry is today.
+###### Information from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette–Lehigh)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=112jwngk3TAozPT-ISkEIYzKSxtJa2kf6EiPTVQa3vRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
