@@ -5,11 +5,11 @@
 ##### Find me on LinkedIn by clicking [here](https://www.linkedin.com/in/elizabeth-strattner).
 ___
 ### **Lehigh University Undergraduate Student Breakdown by Discipline**
-#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025graph.png?raw=true" width="400" height="470" />
+#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025graph.png?raw=true" width="390" height="500" />
 ##### This data shows the percentage of undergraduate students in each academic discipline at Lehigh. Arts & Sciences holds the largest percentage, then Engineering, then Business. This data was sourced from the Lehigh University Office of Institutional Research.
 ___
 ### **Sexual Assault on College Campuses**
-#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025%20Infographic%20Assignment-2.png?raw=true" width="390" height="470" /> 
+#### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/J025%20Infographic%20Assignment-2.png?raw=true" width="390" height="500" /> 
 ##### Sexual assault is an incredibly prevalent problem on college campuses. This infographic, which displays data sourced from [Know Your IX](https://www.knowyourix.org/issues/statistics/), shows some of the most concerning information concerning sexual assault and college students. To find this data, all it took was a quick Google search of "sexual assault statistics" for tons of information, including the statistics on this website, to come up. This data shows the frighteningly high prevalence of sexual assault among women in college—19% of all women in college, to be specific—while also showing how infrequently rapists are jailed for their crimes. The infographic also displays a graphic showing that 90% of all sexual assaults are committed by individuals  the survivor knows. This information is incredibly important, as this knowledge could raise awareness among college students that sexual assault doesn't have to be perpetrated by a stranger in an alley—it could be, and according to the numbers likely would be, perpetrated someone you know quite well.
 ___
 ### **Le-Laf Timeline**
