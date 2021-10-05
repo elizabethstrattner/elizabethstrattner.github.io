@@ -1,7 +1,7 @@
 # **elizabethstrattner.github.io**
 ###### <img src="https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/j025pic.png?raw=true" width="200" height="270" />
 ## **Introduction**
-#### My name is Elizabeth and I am a Journalism and Political Science major at Lehigh University. I plan to use this site for projects in my Data Journalism class.
+#### My name is Elizabeth Strattner and I am majoring in Journalism and Political Science at Lehigh University. I plan to use this site for projects worked on in my Data Journalism class.
 ##### Find me on LinkedIn by clicking [here](https://www.linkedin.com/in/elizabeth-strattner).
 ___
 ### **Lehigh University Undergraduate Student Breakdown by Discipline**
