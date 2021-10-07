@@ -25,4 +25,5 @@ ___
 ![my image](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Lehigh_Undergraduate_Enrollment_by_College,_2019_2019_PERCENT_OF_UNDERGRADUATE_ENROLLMENT_chartbuilder-2.png?raw=true)
 ___
 ### **Lehigh Undergraduate Students by Residence, 2019**
-##### This data, sourced from [Lehigh's Office of Institutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf),shows the breakdown of the university's undergraduate students in 2019 by where they live. Residence halls houses the most undergraduate students,followed by off-campus residences, then sorority houses, and ending fraternity houses housing the least amount of undergraduate students.
+##### This data, sourced from [Lehigh's Office of Institutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf),shows the breakdown of the university's undergraduate students in 2019 by where they live. Residence halls housed the most undergraduate students,followed by off-campus residences, then sorority houses, and ending fraternity houses, which housed the least amount of undergraduate students in 2019.
+![my chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Lehigh_Undergraduate_Students_by_Residence,_2019_Percentage_of_Undergraduate_Students_chartbuilder.png?raw=true) 
