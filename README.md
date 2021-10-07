@@ -22,3 +22,4 @@ ___
 ___
 ### Lehigh Undergraduate Enrollment by College, 2019
 ##### This project was to practice using Chartbuilder to make bar/column charts. This data represents Lehigh's 2019 undergraduate population, sorted by the population's enrollment in each of Lehigh's colleges. The data is sourced from [Lehigh's Office of Instiutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
+![my image](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Lehigh_Undergraduate_Enrollment_by_College,_2019_2019_PERCENT_OF_UNDERGRADUATE_ENROLLMENT_chartbuilder-2.png?raw=true)
