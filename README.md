@@ -19,3 +19,6 @@ ___
 ### **The Rise of Kim Kardashian**
 ##### Kim Kardashian is a media personality, businesswoman, socialite, and model. In recent years, Kardashian has become an advocate for various political issues, a soon-to-be lawyer, and more. Kardashian's growth from where she began—as Paris Hilton's assisstant—to where she is now is nothing short of incredible; the timeline below follows her climb up Hollywood's ladder and provides a bit of insight into how she became such a success. Information from [Wikipedia](https://en.wikipedia.org/wiki/Kim_Kardashian). 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1D6lj7vzOxYPzNx7jovevCOyDoolLc2k9J8IHC3WIPUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+___
+### Lehigh Undergraduate Enrollment by College, 2019
+##### This project was to practice using Chartbuilder to make bar/column charts. This data represents Lehigh's 2019 undergraduate population, sorted by the population's enrollment in each of Lehigh's colleges. The data is sourced from [Lehigh's Office of Instiutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
