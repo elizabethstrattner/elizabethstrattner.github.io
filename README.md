@@ -27,3 +27,7 @@ ___
 ### **Lehigh Undergraduate Students by Residence, 2019**
 ##### This data, sourced from [Lehigh's Office of Institutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf), shows the breakdown of the university's undergraduate students in 2019 by where they lived. Residence halls housed the most undergraduate students,followed by off-campus residences, then sorority houses, and ending with fraternity houses, which housed the lowest percentage of undergraduate students in 2019.
 ![my chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Lehigh_Undergraduate_Students_by_Residence,_2019_Percentage_of_Undergraduate_Students_chartbuilder.png?raw=true) 
+___
+### **Percentage of Students in Lehigh's Undergraduate Colleges by Year**
+##### This chart uses data from [Lehigh's Office of Insitutional Research](https://oirsa.lehigh.edu/university-profile) to display the percentage of students enrolled in Lehigh's three undergraduate colleges, and the changes in those enrollment percentages over time. Between 2017 and 2021, enrollment in the College of Arts and Sciences increased while enrollment in both the College of Engineering and the College of Business decreased. This information might tell Lehigh that they need to market the engineering and business programs more, or that they need to alter those two programs to make them better for students.
+![practice time chart](
