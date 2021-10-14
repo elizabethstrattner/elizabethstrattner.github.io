@@ -34,4 +34,4 @@ ___
 ___
 ### **Life Satisfaction and GDP per capita**
 ##### This data, taken from [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction) shows the correlation between life satisfaction in cantril ladder and GDP per capita in 2019. Looking at the chart, the general trend seems to be that lower GDP per capita correlates with lower life satisfaction. This information is important because it shows that GDP can be used as a significant teller of life satisfaction when looking at various countries. 
-![practice scatter](
+![practice scatter](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true) 
