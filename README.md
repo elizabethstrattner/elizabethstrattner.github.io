@@ -31,3 +31,7 @@ ___
 ### **Percentage of Students in Lehigh's Undergraduate Colleges by Year**
 ##### This chart uses data from [Lehigh's Office of Insitutional Research](https://oirsa.lehigh.edu/university-profile) to display the percentage of students enrolled in Lehigh's three undergraduate colleges, and the changes in those enrollment percentages over time. Between 2017 and 2021, enrollment in the College of Arts and Sciences increased while enrollment in both the College of Engineering and the College of Business decreased. This information might tell Lehigh that they need to market the engineering and business programs more, or that they need to alter those two programs to make them better for students.
 ![practice time chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Percentage_of_Students_in_Lehigh's_Undergraduate_Colleges,_2017-2021_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true) 
+___
+### **Life Satisfaction and GDP per capita**
+##### This data, taken from [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction) shows the correlation between life satisfaction in cantril ladder and GDP per capita in 2019. Looking at the chart, the general trend seems to be that lower GDP per capita correlates with lower life satisfaction. This information is important because it shows that GDP can be used as a significant teller of life satisfaction when looking at various countries. 
+![practice scatter](
