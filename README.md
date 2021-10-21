@@ -41,4 +41,4 @@ ___
 ![demographic chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Distribution_of_Minority_Population_by_Race,_1980-2020_Black_or_African_American_American_Indian_and_Alaska_Native_Asian_and_Native_Hawaiian_Some_other_race_Two_or_more_races_chartbuilder-2.png?raw=true) 
 ### **2019 World's Top 20 Cycling Cities**
 ##### This map displays the 20 most bike-friendly cities in the world, ranked by Wired. For more information, go to [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
-![cycling](<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ugdHBbTOhnhzPp8c2fJZvoLQHphhTDI4" width="640" height="480"></iframe>) 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ugdHBbTOhnhzPp8c2fJZvoLQHphhTDI4" width="640" height="480"></iframe>
