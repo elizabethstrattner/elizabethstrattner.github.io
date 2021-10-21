@@ -42,3 +42,6 @@ ___
 ### **2019 World's Top 20 Cycling Cities**
 ##### This map displays the 20 most bike-friendly cities in the world, ranked by Wired. For more information, go to [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ugdHBbTOhnhzPp8c2fJZvoLQHphhTDI4" width="640" height="480"></iframe>
+### **Top 5 Happiest Cities in the World**
+##### This map is a visualization of the top five happiest cities in the world, according to the [World Happiness Report's 2020 analysis](https://worldhappiness.report/ed/2020/cities-and-happiness-a-global-ranking-and-analysis/). The rankings are based on self-reports by residents across the world, allowing them to express how high their own quality of life is. Scandinavia dominates the rankings, with Scandinavian cities securing six of the top ten spots on the list. These self-rankings can provide guidance to policymakers on how to enhance the well-being of their residents, and show them which countries to look to for direction. 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1CxxCgz3Pai1Ye52B6XCKy2sG3A5FiUbQ" width="640" height="480"></iframe>
