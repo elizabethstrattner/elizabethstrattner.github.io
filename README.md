@@ -27,15 +27,15 @@ ___
 ### **Lehigh Undergraduate Students by Residence, 2019**
 ##### This data, sourced from [Lehigh's Office of Institutional Research](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf), shows the breakdown of the university's undergraduate students in 2019 by where they lived. Residence halls housed the most undergraduate students,followed by off-campus residences, then sorority houses, and ending with fraternity houses, which housed the lowest percentage of undergraduate students in 2019.
 ![my chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Lehigh_Undergraduate_Students_by_Residence,_2019_Percentage_of_Undergraduate_Students_chartbuilder.png?raw=true) 
----
+___
 ### **Percentage of Students in Lehigh's Undergraduate Colleges by Year**
 ##### This chart uses data from [Lehigh's Office of Insitutional Research](https://oirsa.lehigh.edu/university-profile) to display the percentage of students enrolled in Lehigh's three undergraduate colleges, and the changes in those enrollment percentages over time. Between 2017 and 2021, enrollment in the College of Arts and Sciences increased while enrollment in both the College of Engineering and the College of Business decreased. This information might tell Lehigh that they need to market the engineering and business programs more, or that they need to alter those two programs to make them better for students.
 ![practice time chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Percentage_of_Students_in_Lehigh's_Undergraduate_Colleges,_2017-2021_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true) 
----
+___
 ### **Life Satisfaction and GDP per capita**
 ##### This data, taken from [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction) shows the correlation between life satisfaction in cantril ladder and GDP per capita in 2019. Looking at the chart, the general trend seems to be that lower GDP per capita correlates with lower life satisfaction. This information is important because it shows that GDP can be used as a significant teller of life satisfaction when looking at various countries. 
 ![practice scatter](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Life_Satisfaction_and_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true) 
----
+___
 ### **Distribution of Minority Populations in America by Race**
 ##### This chart displays the distribution of the United States' minority populations by race between 1980 and 2020. The Black and African American and American Indian and Alaska Native populations have remained relatively stable over time, while the other minority populations have skyrocketed. The group two or more races increased the most dramatically over time—one of the likely reasons for this being that "two or more races" wasn't an option on the US Census before 2000. It's interesting to see the changes in demographics in our country throughout the years, especially because most of the minority populations are increasing. This has serious implications for considering the way our country is run, and what systematic obstacles are in the way of these growing minority populations. Data from [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States).
 ![demographic chart](https://github.com/elizabethstrattner/elizabethstrattner.github.io/blob/main/Distribution_of_Minority_Population_by_Race,_1980-2020_Black_or_African_American_American_Indian_and_Alaska_Native_Asian_and_Native_Hawaiian_Some_other_race_Two_or_more_races_chartbuilder-2.png?raw=true) 
